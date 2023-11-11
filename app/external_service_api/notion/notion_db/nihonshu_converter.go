@@ -1,7 +1,7 @@
 package notion_db
 
 import (
-	"github.com/shibe/notion_hozonn_api/domain/model/nihonshu"
+	"github.com/shibe/notion_hozonn_api/app/domain/model/nihonshu"
 )
 
 // ConvertToNotionObject

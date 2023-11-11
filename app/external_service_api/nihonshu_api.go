@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/pkg/errors"
-	"github.com/shibe/notion_hozonn_api/domain/model/nihonshu"
+	"github.com/shibe/notion_hozonn_api/app/domain/model/nihonshu"
 )
 
 func GetNihonshuList() ([]nihonshu.Nihonshu, error) {
